@@ -1,9 +1,9 @@
-# Template for setting up reproducible projects
+<!--# Template for setting up reproducible projects
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-*This is a template for setting up a research or data science project online, such as on GitHub.*
+<!--*This is a template for setting up a research or data science project online, such as on GitHub.*
 
 ## About this Repository
 
@@ -27,7 +27,7 @@ Your streamlined project setup is just three steps away:
 After creating your own copy of this repository, you can edit or delete existing files and folders, or add new ones as per your needs.
 
 <!--If reusing this repository, delete this section -->
-## About README
+<!--## About README
 
 On an online repository, such as GitHub, the project overview page is named ‘README’ which is equivalent to the main page of a website.
 README page should describe the project -- what is the purpose of the project, who is involved, how to collaborate and where to find key resources.
@@ -128,7 +128,7 @@ Inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecut
 └──
 ```
 
-**Maintainers**
+<!--**Maintainers**
 
 This repository has been set up and maintained by Malvika Sharan to support the work of Open Research Community Management and Research Application Management teams under the Tools, Practices and Systems Research Programme at The Alan Turing Institute.
 
