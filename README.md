@@ -87,7 +87,7 @@ Clearly define the license under which the repository's work is shared.
 
 <!--If reusing this repository, delete this section -->
 
-## Repo Structure
+<!--## Repo Structure
 
 Inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecutter-data-science).
 
