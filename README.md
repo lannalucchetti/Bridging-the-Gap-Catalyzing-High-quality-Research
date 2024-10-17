@@ -173,7 +173,7 @@ This work is licensed under the MIT license (code) and Creative Commons Attribut
 You are free to share and adapt the material for any purpose, even commercially,
 as long as you provide attribution (give appropriate credit, provide a link to the license,
 and indicate if changes were made) in any reasonable manner, but not in any way that suggests the
-licensor endorses you or your use and with no additional restrictions.
+licensor endorses you or your use and with no additional restrictions. -->
 
 🤝 Acknowledgement
 ---
