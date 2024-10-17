@@ -27,9 +27,11 @@ Your streamlined project setup is just three steps away:
 After creating your own copy of this repository, you can edit or delete existing files and folders, or add new ones as per your needs.
 
 <!--If reusing this repository, delete this section -->
-<!--## About README
+## README
 
-On an online repository, such as GitHub, the project overview page is named ‘README’ which is equivalent to the main page of a website.
+Some awesome words will be here in the future.
+
+<!--On an online repository, such as GitHub, the project overview page is named ‘README’ which is equivalent to the main page of a website.
 README page should describe the project -- what is the purpose of the project, who is involved, how to collaborate and where to find key resources.
 
 To learn more about how to create a README.md file, please read the [Landing Page - README File](https://the-turing-way.netlify.app/project-design/project-repo/project-repo-readme.html) chapter in The Turing Way Guide for Project Design.
