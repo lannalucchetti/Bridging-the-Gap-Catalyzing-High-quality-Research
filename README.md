@@ -29,7 +29,17 @@ After creating your own copy of this repository, you can edit or delete existing
 <!--If reusing this repository, delete this section -->
 ## README
 
-Some awesome words will be here in the future.
+The Digital Research Alliance of Canada (DRI) provides Advanced Research Computing (ARC), Research Data Management (RDM), Research Software (RS), and Digital Research Infrastructure (DRI).
+These tools comprise an extensive infrastructure that is paramount for research carried out across different fields of expertise. However, equity-searching groups are still the minority of the DRI users, and the unawareness of this infrastructure might even be responsible for new projects never being conceived or delineated in the first place.
+
+This short-term project aims to promote awareness and knowledge about the Alliance’s DRI, especially for equity-seeking groups through a series of short talks and presentations to be carried out over the course of several weeks, therefore promoting direct engagement and knowledge gathering with equity-seeking groups.
+
+The key approach of this project is reaching out with knowledge or information about the Alliance and the DRI altogether, and, upon this first contact with the tools and possibilities, researchers could then search for the already available training resources provided by the Alliance or other sources, for the tools and resources that could be useful for their research.
+
+Furthermore, we believe that the event happening over several weeks will provide a favourable environment for the attendees to expand their network, meet their peers and get to know potential collaborators, fostering and nurturing interdisciplinarity and collaboration.
+
+
+This project has been conceived by equity-seeking people and for equity-seeking people! Occupying the spaces we are in now - the university, for instance, is in itself, revolutionary. Let us continue on this journey together, towards high-quality research, acquiring the resources that might help us bridge this gap.
 
 <!--On an online repository, such as GitHub, the project overview page is named ‘README’ which is equivalent to the main page of a website.
 README page should describe the project -- what is the purpose of the project, who is involved, how to collaborate and where to find key resources.
